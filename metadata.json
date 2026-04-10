@@ -1,0 +1,7 @@
+{
+  "name": "Nila AI Assistant",
+  "description": "A modular, Jarvis-style AI assistant with Gemini integration, voice interaction, and system controls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
